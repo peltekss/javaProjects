@@ -1,4 +1,4 @@
-package j100_javaProjects.P01;
+package j100_javaProjects.p01
 
 import java.util.Random;
 import java.util.Scanner;

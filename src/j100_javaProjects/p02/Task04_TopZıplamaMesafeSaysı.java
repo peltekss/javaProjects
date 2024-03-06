@@ -1,4 +1,4 @@
-package j100_javaProjects.P02;
+package j100_javaProjects.p02;
 
 class Task04_TopZıplamaMesafeSaysı {
 

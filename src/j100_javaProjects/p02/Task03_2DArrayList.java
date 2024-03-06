@@ -1,4 +1,4 @@
-package j100_javaProjects.P02;
+package j100_javaProjects.p02;
 
 import java.util.ArrayList;
 import java.util.Arrays;
