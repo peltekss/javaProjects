@@ -1,4 +1,4 @@
-package j100_javaProjects.p02;
+package j100_javaProjects.P02;
 
 public class Task07_RomaRakamlari {
     /*  TASK :

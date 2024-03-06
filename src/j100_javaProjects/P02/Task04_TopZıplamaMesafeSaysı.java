@@ -1,6 +1,8 @@
-package j100_javaProjects.p02;
+package j100_javaProjects.P02;
 
-class Task04_TopZıplamaMesafeSaysı {
+import java.util.Scanner;
+
+public class Task04_TopZıplamaMesafeSaysı {
 
    /* HAFTANIN TASK'iiii :-)
     Bir top belirli yükseklikten atılmaktadır.

@@ -1,4 +1,4 @@
-package j100_javaProjects.p01;
+package j100_javaProjects.P01;
 
 import java.util.Scanner;
 
